@@ -1,4 +1,5 @@
 -noodle
 -chili
 
-add chili into nodle
+1. add nodle into water
+2. add chili into water
